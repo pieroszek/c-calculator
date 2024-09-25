@@ -1,4 +1,4 @@
-# c-calculator
+##### c-calculator
 
 ## This is a c++ calculator.
 
