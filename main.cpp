@@ -5,9 +5,18 @@ using namespace std;
 
 int main(){
 
-    int num1 = 9;
-    int num2 = 8;
-    string op = "*";
+    int num1 = 0;
+    int num2 = 0;
+
+    string op = "+";
+
+    cout << "num1: ";
+    cin >> num1;
+    cout << "num2: ";
+    cin >> num2;
+    cout << "+, -, /, *, !, ^, sqr: ";
+    cin >> op;
+
 
     int result = 0;
 
