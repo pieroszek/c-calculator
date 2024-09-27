@@ -14,7 +14,11 @@ To divide is to subtract one number against another until the remainder is small
 
 example
 64 - 12 = 52
+
 52 - 12 = 40
+
 40 - 12 = 28
+
 28 - 12 = 16
+
 16 - 12 = 4 
