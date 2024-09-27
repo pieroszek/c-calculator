@@ -22,3 +22,8 @@ example
 28 - 12 = 16
 
 16 - 12 = 4 
+
+the quotient is the amount of times it took to subtract and the remainder is the result of the last subtraction
+so in this case its 5 with a remainder of 4
+
+## Power
