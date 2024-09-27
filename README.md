@@ -27,3 +27,11 @@ the quotient is the amount of times it took to subtract and the remainder is the
 so in this case its 5 with a remainder of 4
 
 ## Power
+To perfom operations like 2^4 it is a multiplication 
+
+so 2^4 which is essentially
+
+2+2 = 4
+4+4 = 8
+8+8 = 16
+16 + 16 = 32
