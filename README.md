@@ -35,3 +35,16 @@ so 2^4 which is essentially
 4+4 = 8
 8+8 = 16
 16 + 16 = 32
+
+## Factorial
+To perform a factorial the concept is pretty simple, take !4 
+we can break this down into 4x3x2x1 = 24
+Since we did the multiplication before all we have to do is multiply the initial number
+by itself -1, then take that total and multiply it by the number and subtract -1 again from it to do the multiplication again
+and repeat until the number is 1. 
+
+example
+
+4 x (4-1) = 12
+12 x (3-1) = 24
+24 x (2-1) = 24 
